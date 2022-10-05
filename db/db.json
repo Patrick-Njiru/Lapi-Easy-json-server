@@ -1,6 +1,7 @@
 {
   "laptops": [
     {
+      "id": 1,
       "seller": ["07123XXX72", "Moi Avenue at Sasa Mall Building second floor shop F16"],
       "name": "HP EliteBook",
       "image": "../images/HP-Elitebook.jpeg",
