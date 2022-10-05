@@ -1,52 +1,93 @@
 {
-  "toys": [
+  "laptops": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "seller": ["07123XXX72", "Moi Avenue at Sasa Mall Building second floor shop F16"],
+      "name": "HP EliteBook",
+      "image": "2",
+      "price(Ksh)": 28000,
+      "specifications": {
+        "operatingSystem": "Windows 10",
+        "ram": "8GB",
+        "processor": "Intel Core i5",
+        "graphicsCard": "Intel",
+        "storagetype": "SSD",
+        "storageCapacity": "256GB",
+        "displaySize(inch)": "21",
+        "color": "White",
+        "condition": "Refurbished"
+      }
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "seller": ["07245XXX27", "Imenti House First Floor"],
+      "name": "Asus VivoBook E12 E203NAH",
+      "image": "",
+      "price(Ksh)": 27000, 
+      "specifications": {
+        "operatingSystem": "Windows 10",
+        "ram": "4GB",
+        "processor": "Intel Celeron",
+        "graphicsCard": "NA",
+        "storagetype": "HDD",
+        "storageCapacity": "500GB",
+        "displaySize(inch)": "11/11.6",
+        "color": "Gray",
+        "condition": "Brand New"
+      }
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "seller": ["07436XXX34", "Sawa Mall Moi Avenue Ground Floor Shop A3"],
+      "name": "Lenovo ThinkPad X1",
+      "image": "",
+      "price(Ksh)": 49999,
+      "specifications": {
+        "operatingSystem": "Windows 10",
+        "ram": "8GB",
+        "processor": "Intel Core i7",
+        "graphicsCard": "Intel",
+        "storagetype": "SSD",
+        "storageCapacity": "256GB",
+        "displaySize(inch)": "14",
+        "color": "Black",
+        "condition": "New"
+      }
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "seller": ["07735XXX24", "Tecmacbyte computer shop Mfangano Street/sheikh karume interesection"],
+      "name": "HP Pavilion",
+      "image": "",
+      "price(Ksh)": 50000,
+      "specifications": {
+        "operatingSystem": "Windows 10",
+        "ram": "16GB",
+        "processor": "Intel Core i7",
+        "graphicsCard": "Intel",
+        "storagetype": "HDD+SSD",
+        "storageCapacity": "256GB",
+        "displaySize(inch)": "15/15.6",
+        "color": "Gray",
+        "condition": "Refurbished"
+      }
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "seller": ["07923XXX56", ""],
+      "name": "Apple MacBook Pro",
+      "image": "",
+      "price(Ksh)": 35000,
+      "specifications": {
+        "operatingSystem": "Mac OS",
+        "ram": "8GB",
+        "processor": "Intel Core i5",
+        "graphicsCard": "Intel",
+        "storagetype": "SSD",
+        "storageCapacity": "500GB",
+        "displaySize(inch)": "13/13.3",
+        "color": "White",
+        "condition": "Used"
+      }
     }
   ]
 }
