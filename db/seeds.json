@@ -4,7 +4,7 @@
       "id": 1,
       "seller": ["07123XXX72", "Moi Avenue at Sasa Mall Building second floor shop F16"],
       "name": "HP EliteBook",
-      "image": "../images/HP-Elitebook.jpeg",
+      "image": "https://ibb.co/WzYZ8Cg",
       "price(Ksh)": 28000,
       "specifications": {
         "operatingSystem": "Windows 10",
@@ -22,7 +22,7 @@
       "id": 2,
       "seller": ["07245XXX27", "Imenti House First Floor"],
       "name": "Asus VivoBook E12 E203NAH",
-      "image": "../images/Asus-VivoBook.jpeg",
+      "image": "https://ibb.co/kxdppg0",
       "price(Ksh)": 27000, 
       "specifications": {
         "operatingSystem": "Windows 10",
@@ -40,7 +40,7 @@
       "id": 3,
       "seller": ["07436XXX34", "Sawa Mall Moi Avenue Ground Floor Shop A3"],
       "name": "Lenovo ThinkPad X1",
-      "image": "../images/Lenovo-ThinkPad.jpeg",
+      "image": "https://ibb.co/rbpbX1y",
       "price(Ksh)": 49999,
       "specifications": {
         "operatingSystem": "Windows 10",
@@ -58,7 +58,7 @@
       "id": 4,
       "seller": ["07735XXX24", "Tecmacbyte computer shop Mfangano Street/sheikh karume interesection"],
       "name": "HP Pavilion",
-      "image": "../images/HP-Pavilion.jpeg",
+      "image": "https://ibb.co/K2n2sss",
       "price(Ksh)": 50000,
       "specifications": {
         "operatingSystem": "Windows 10",
@@ -76,7 +76,7 @@
       "id": 5,
       "seller": ["07923XXX56", ""],
       "name": "Apple MacBook Pro",
-      "image": "../images/Apple-MacBook-Pro.jpeg",
+      "image": "https://ibb.co/6Jnr63r",
       "price(Ksh)": 35000,
       "specifications": {
         "operatingSystem": "Mac OS",
