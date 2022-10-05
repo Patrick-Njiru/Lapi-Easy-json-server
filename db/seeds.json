@@ -3,7 +3,7 @@
     {
       "seller": ["07123XXX72", "Moi Avenue at Sasa Mall Building second floor shop F16"],
       "name": "HP EliteBook",
-      "image": "2",
+      "image": "../images/HP-Elitebook.jpeg",
       "price(Ksh)": 28000,
       "specifications": {
         "operatingSystem": "Windows 10",
@@ -21,7 +21,7 @@
       "id": 2,
       "seller": ["07245XXX27", "Imenti House First Floor"],
       "name": "Asus VivoBook E12 E203NAH",
-      "image": "",
+      "image": "../images/Asus-VivoBook.jpeg",
       "price(Ksh)": 27000, 
       "specifications": {
         "operatingSystem": "Windows 10",
@@ -39,7 +39,7 @@
       "id": 3,
       "seller": ["07436XXX34", "Sawa Mall Moi Avenue Ground Floor Shop A3"],
       "name": "Lenovo ThinkPad X1",
-      "image": "",
+      "image": "../images/Lenovo-ThinkPad.jpeg",
       "price(Ksh)": 49999,
       "specifications": {
         "operatingSystem": "Windows 10",
@@ -57,7 +57,7 @@
       "id": 4,
       "seller": ["07735XXX24", "Tecmacbyte computer shop Mfangano Street/sheikh karume interesection"],
       "name": "HP Pavilion",
-      "image": "",
+      "image": "../images/HP-Pavilion.jpeg",
       "price(Ksh)": 50000,
       "specifications": {
         "operatingSystem": "Windows 10",
@@ -75,7 +75,7 @@
       "id": 5,
       "seller": ["07923XXX56", ""],
       "name": "Apple MacBook Pro",
-      "image": "",
+      "image": "../images/Apple-MacBook-Pro.jpeg",
       "price(Ksh)": 35000,
       "specifications": {
         "operatingSystem": "Mac OS",
