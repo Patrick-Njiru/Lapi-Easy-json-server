@@ -4,7 +4,7 @@
       "id": 1,
       "seller": ["07123XXX72", "Moi Avenue at Sasa Mall Building second floor shop F16"],
       "name": "HP EliteBook",
-      "image": "https://ibb.co/WzYZ8Cg",
+      "image": "../images/HP-Elitebook.jpeg",
       "price(Ksh)": 28000,
       "specifications": {
         "operatingSystem": "Windows 10",
