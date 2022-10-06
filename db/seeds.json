@@ -13,7 +13,7 @@
         "graphicsCard": "Intel",
         "storagetype": "SSD",
         "storageCapacity": "256GB",
-        "displaySize(inch)": "21",
+        "displaySize": "21",
         "color": "White",
         "condition": "Used"
       }
@@ -31,7 +31,7 @@
         "graphicsCard": "NA",
         "storagetype": "HDD",
         "storageCapacity": "500GB",
-        "displaySize(inch)": "11/11.6",
+        "displaySize": "11/11.6",
         "color": "Gray",
         "condition": "Brand New"
       }
@@ -49,7 +49,7 @@
         "graphicsCard": "Intel",
         "storagetype": "SSD",
         "storageCapacity": "256GB",
-        "displaySize(inch)": "14",
+        "displaySize": "14",
         "color": "Black",
         "condition": "New"
       }
@@ -67,7 +67,7 @@
         "graphicsCard": "Intel",
         "storagetype": "HDD+SSD",
         "storageCapacity": "256GB",
-        "displaySize(inch)": "15/15.6",
+        "displaySize": "15/15.6",
         "color": "Gray",
         "condition": "Refurbished"
       }
@@ -85,7 +85,7 @@
         "graphicsCard": "Intel",
         "storagetype": "SSD",
         "storageCapacity": "500GB",
-        "displaySize(inch)": "13/13.3",
+        "displaySize": "13.3",
         "color": "White",
         "condition": "Used"
       }
