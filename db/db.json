@@ -2,10 +2,10 @@
   "laptops": [
     {
       "id": 1,
-      "seller": ["07123XXX72", "Moi Avenue at Sasa Mall Building second floor shop F16"],
+      "seller": ["07123XXX72", "Call me and we will plan to meet at a convenient location."],
       "name": "HP EliteBook",
       "image": "https://i.ibb.co/pK9cVqJ/HP-Elitebook.jpg",
-      "price(Ksh)": 28000,
+      "price": 23000,
       "specifications": {
         "operatingSystem": "Windows 10",
         "ram": "8GB",
@@ -15,7 +15,7 @@
         "storageCapacity": "256GB",
         "displaySize(inch)": "21",
         "color": "White",
-        "condition": "Refurbished"
+        "condition": "Used"
       }
     },
     {
@@ -23,7 +23,7 @@
       "seller": ["07245XXX27", "Imenti House First Floor"],
       "name": "Asus VivoBook E12 E203NAH",
       "image": "https://i.ibb.co/VtKddWD/Asus-Vivo-Book.jpg",
-      "price(Ksh)": 27000, 
+      "price": 27000, 
       "specifications": {
         "operatingSystem": "Windows 10",
         "ram": "4GB",
@@ -41,7 +41,7 @@
       "seller": ["07436XXX34", "Sawa Mall Moi Avenue Ground Floor Shop A3"],
       "name": "Lenovo ThinkPad X1",
       "image": "https://i.ibb.co/jVwVj14/Lenovo-Think-Pad.jpg",
-      "price(Ksh)": 49999,
+      "price": 49999,
       "specifications": {
         "operatingSystem": "Windows 10",
         "ram": "8GB",
@@ -59,7 +59,7 @@
       "seller": ["07735XXX24", "Tecmacbyte computer shop Mfangano Street/sheikh karume interesection"],
       "name": "HP Pavilion",
       "image": "https://i.ibb.co/v393ddd/HP-Pavilion.jpg",
-      "price(Ksh)": 50000,
+      "price": 50000,
       "specifications": {
         "operatingSystem": "Windows 10",
         "ram": "16GB",
@@ -74,10 +74,10 @@
     },
     {
       "id": 5,
-      "seller": ["07923XXX56", ""],
+      "seller": ["07923XXX56", "Nairobi CBD"],
       "name": "Apple MacBook Pro",
       "image": "https://i.ibb.co/n8g6hH6/Apple-Mac-Book-Pro.jpg",
-      "price(Ksh)": 35000,
+      "price": 35000,
       "specifications": {
         "operatingSystem": "Mac OS",
         "ram": "8GB",
