@@ -2,108 +2,88 @@
   "laptops": [
     {
       "id": 1,
-      "seller": {
-        "contact": "07123XXX72",
-        "storeAddress": "Call me and we will plan to meet at a convenient location"
-      },
-      "name": "HP EliteBook",
+      "sellerContact": "07123XXX72",
+      "sellerStoreAddress": "Call me and we will plan to meet at a convenient location",
+      "model": "HP EliteBook",
       "image": "https://i.ibb.co/pK9cVqJ/HP-Elitebook.jpg",
       "price": 23000,
-      "specifications": {
-        "operatingSystem": "Windows 10",
-        "ram": "8GB",
-        "processor": "Intel Core i5",
-        "graphicsCard": "Intel",
-        "storageType": "SSD",
-        "storageCapacity": "256GB",
-        "displaySize": "21",
-        "color": "White",
-        "condition": "Used"
-      }
+      "operatingSystem": "Windows 10",
+      "ram": "8GB",
+      "processor": "Intel Core i5",
+      "graphicsCard": "Intel",
+      "storageType": "SSD",
+      "storageCapacity": "256GB",
+      "displaySize": "21",
+      "color": "White",
+      "condition": "Used"
     },
     {
       "id": 2,
-      "seller": {
-        "contact": "07245XXX27",
-        "storeAddress": "Imenti House First Floor"
-      },
-      "name": "Asus VivoBook E12 E203NAH",
+      "sellerContact": "07245XXX27",
+      "sellerStoreAddress": "Imenti House First Floor",
+      "model": "Asus VivoBook E12 E203NAH",
       "image": "https://i.ibb.co/VtKddWD/Asus-Vivo-Book.jpg",
       "price": 27000, 
-      "specifications": {
-        "operatingSystem": "Windows 10",
-        "ram": "4GB",
-        "processor": "Intel Celeron",
-        "graphicsCard": "NA",
-        "storageType": "HDD",
-        "storageCapacity": "500GB",
-        "displaySize": "11/11.6",
-        "color": "Gray",
-        "condition": "Brand New"
-      }
+      "operatingSystem": "Windows 10",
+      "ram": "4GB",
+      "processor": "Intel Celeron",
+      "graphicsCard": "NA",
+      "storageType": "HDD",
+      "storageCapacity": "500GB",
+      "displaySize": "11/11.6",
+      "color": "Gray",
+      "condition": "Brand New"
     },
     {
       "id": 3,
-      "seller": {
-        "contact": "07436XXX34",
-        "storeAddress": "Sawa Mall Moi Avenue Ground Floor Shop A3"
-      },
-      "name": "Lenovo ThinkPad X1",
+      "sellerContact": "07436XXX34",
+      "sellerStoreAddress": "Sawa Mall Moi Avenue Ground Floor Shop A3",
+      "model": "Lenovo ThinkPad X1",
       "image": "https://i.ibb.co/jVwVj14/Lenovo-Think-Pad.jpg",
       "price": 49999,
-      "specifications": {
-        "operatingSystem": "Windows 10",
-        "ram": "8GB",
-        "processor": "Intel Core i7",
-        "graphicsCard": "Intel",
-        "storageType": "SSD",
-        "storageCapacity": "256GB",
-        "displaySize": "14",
-        "color": "Black",
-        "condition": "New"
-      }
+      "operatingSystem": "Windows 10",
+      "ram": "8GB",
+      "processor": "Intel Core i7",
+      "graphicsCard": "Intel",
+      "storageType": "SSD",
+      "storageCapacity": "256GB",
+      "displaySize": "14",
+      "color": "Black",
+      "condition": "New"
     },
     {
       "id": 4,
-      "seller": {
-        "contact": "07735XXX24",
-        "storeAddress": "Tecmacbyte computer shop Mfangano Street/sheikh karume interesection"
-      },
-      "name": "HP Pavilion",
+      "sellerContact": "07735XXX24",
+      "sellerStoreAddress": "Tecmacbyte computer shop Mfangano Street/sheikh karume interesection",
+      "model": "HP Pavilion",
       "image": "https://i.ibb.co/v393ddd/HP-Pavilion.jpg",
       "price": 50000,
-      "specifications": {
-        "operatingSystem": "Windows 10",
-        "ram": "16GB",
-        "processor": "Intel Core i7",
-        "graphicsCard": "Intel",
-        "storageType": "HDD+SSD",
-        "storageCapacity": "256GB",
-        "displaySize": "15/15.6",
-        "color": "Gray",
-        "condition": "Refurbished"
-      }
+      "operatingSystem": "Windows 10",
+      "ram": "16GB",
+      "processor": "Intel Core i7",
+      "graphicsCard": "Intel",
+      "storageType": "HDD+SSD",
+      "storageCapacity": "256GB",
+      "displaySize": "15/15.6",
+      "color": "Gray",
+      "condition": "Refurbished"
     },
     {
       "id": 5,
-      "seller": {
-        "contact": "07923XXX56",
-        "storeAddress": "Nairobi CBD"
-      },
-      "name": "Apple MacBook Pro",
+      "sellerContact": "07923XXX56",
+      "sellerStoreAddress": "Nairobi CBD",
+      "model": "Apple MacBook Pro",
       "image": "https://i.ibb.co/n8g6hH6/Apple-Mac-Book-Pro.jpg",
       "price": 35000,
-      "specifications": {
-        "operatingSystem": "Mac OS",
-        "ram": "8GB",
-        "processor": "Intel Core i5",
-        "graphicsCard": "Intel",
-        "storageType": "SSD",
-        "storageCapacity": "500GB",
-        "displaySize": "13.3",
-        "color": "White",
-        "condition": "Used"
-      }
+      "operatingSystem": "Mac OS",
+      "ram": "8GB",
+      "processor": "Intel Core i5",
+      "graphicsCard": "Intel",
+      "storageType": "SSD",
+      "storageCapacity": "500GB",
+      "displaySize": "13.3",
+      "color": "White",
+      "condition": "Used"
     }
   ]
 }
