@@ -84,23 +84,6 @@
       "displaySize": "13.3",
       "color": "White",
       "condition": "Used"
-    },
-    {
-      "sellerContact": "0712359273",
-      "sellerStoreAddress": "Personal Seller",
-      "model": "HP EliteBook 850 G3",
-      "image": "C:\\fakepath\\WhatsAppImage.jpeg",
-      "price": "35000",
-      "operatingSystem": "Windows 10",
-      "ram": "16GB",
-      "processor": "Intel Core i5",
-      "graphicsCard": "Intel",
-      "storageType": "SSD + HDD",
-      "storageCapacity": "256GB SSD + 1 TB HDD",
-      "displaySize": "15.6",
-      "color": "Silver",
-      "condition": "Used",
-      "id": 6
-      }
+    }
   ]
-}
+} 
