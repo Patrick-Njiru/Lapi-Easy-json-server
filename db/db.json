@@ -6,7 +6,7 @@
         "contact": "07123XXX72",
         "storeAddress": "Call me and we will plan to meet at a convenient location"
       },
-      "name": "HP EliteBook",
+      "model": "HP EliteBook",
       "image": "https://i.ibb.co/pK9cVqJ/HP-Elitebook.jpg",
       "price": 23000,
       "specifications": {
@@ -27,7 +27,7 @@
         "contact": "07245XXX27",
         "storeAddress": "Imenti House First Floor"
       },
-      "name": "Asus VivoBook E12 E203NAH",
+      "model": "Asus VivoBook E12 E203NAH",
       "image": "https://i.ibb.co/VtKddWD/Asus-Vivo-Book.jpg",
       "price": 27000, 
       "specifications": {
@@ -48,7 +48,7 @@
         "contact": "07436XXX34",
         "storeAddress": "Sawa Mall Moi Avenue Ground Floor Shop A3"
       },
-      "name": "Lenovo ThinkPad X1",
+      "model": "Lenovo ThinkPad X1",
       "image": "https://i.ibb.co/jVwVj14/Lenovo-Think-Pad.jpg",
       "price": 49999,
       "specifications": {
@@ -69,7 +69,7 @@
         "contact": "07735XXX24",
         "storeAddress": "Tecmacbyte computer shop Mfangano Street/sheikh karume interesection"
       },
-      "name": "HP Pavilion",
+      "model": "HP Pavilion",
       "image": "https://i.ibb.co/v393ddd/HP-Pavilion.jpg",
       "price": 50000,
       "specifications": {
@@ -90,7 +90,7 @@
         "contact": "07923XXX56",
         "storeAddress": "Nairobi CBD"
       },
-      "name": "Apple MacBook Pro",
+      "model": "Apple MacBook Pro",
       "image": "https://i.ibb.co/n8g6hH6/Apple-Mac-Book-Pro.jpg",
       "price": 35000,
       "specifications": {
