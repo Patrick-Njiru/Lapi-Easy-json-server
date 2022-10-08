@@ -20,7 +20,7 @@
     {
       "id": 2,
       "sellerContact": "07245XXX27",
-      "storeAddress": "Imenti House First Floor",
+      "sellerStoreAddress": "Imenti House First Floor",
       "model": "Asus VivoBook E12 E203NAH",
       "image": "https://i.ibb.co/VtKddWD/Asus-Vivo-Book.jpg",
       "price": 27000, 
@@ -37,7 +37,7 @@
     {
       "id": 3,
       "sellerContact": "07436XXX34",
-      "storeAddress": "Sawa Mall Moi Avenue Ground Floor Shop A3",
+      "sellerStoreAddress": "Sawa Mall Moi Avenue Ground Floor Shop A3",
       "model": "Lenovo ThinkPad X1",
       "image": "https://i.ibb.co/jVwVj14/Lenovo-Think-Pad.jpg",
       "price": 49999,
