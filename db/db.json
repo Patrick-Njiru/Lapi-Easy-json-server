@@ -3,6 +3,7 @@
     {
       "id": 1,
       "sellerContact": "07123XXX72",
+      "sellerLocation": "Thika",
       "sellerStoreAddress": "Call me and we will plan to meet at a convenient location",
       "model": "HP EliteBook",
       "image": "https://i.ibb.co/pK9cVqJ/HP-Elitebook.jpg",
@@ -20,6 +21,7 @@
     {
       "id": 2,
       "sellerContact": "07245XXX27",
+      "sellerLocation": "Nairobi",
       "sellerStoreAddress": "Imenti House First Floor",
       "model": "Asus VivoBook E12 E203NAH",
       "image": "https://i.ibb.co/VtKddWD/Asus-Vivo-Book.jpg",
@@ -37,7 +39,8 @@
     {
       "id": 3,
       "sellerContact": "07436XXX34",
-      "sellerStoreAddress": "Sawa Mall Moi Avenue Ground Floor Shop A3",
+      "sellerLocation": "Kisumu",
+      "sellerStoreAddress": "Sawa Mall Ground Floor Shop A3",
       "model": "Lenovo ThinkPad X1",
       "image": "https://i.ibb.co/jVwVj14/Lenovo-Think-Pad.jpg",
       "price": 49999,
@@ -54,7 +57,8 @@
     {
       "id": 4,
       "sellerContact": "07735XXX24",
-      "sellerStoreAddress": "Tecmacbyte computer shop Mfangano Street/sheikh karume interesection",
+      "sellerLocation": "Machakos",
+      "sellerStoreAddress": "Tecmacbyte computer shop sheikh karume road",
       "model": "HP Pavilion",
       "image": "https://i.ibb.co/v393ddd/HP-Pavilion.jpg",
       "price": 50000,
@@ -71,6 +75,7 @@
     {
       "id": 5,
       "sellerContact": "07923XXX56",
+      "sellerLocation": "Nairobi",
       "sellerStoreAddress": "Nairobi CBD",
       "model": "Apple MacBook Pro",
       "image": "https://i.ibb.co/n8g6hH6/Apple-Mac-Book-Pro.jpg",
